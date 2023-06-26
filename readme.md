@@ -60,20 +60,5 @@ These are just some of the few tools that can be utilized to help you be profici
 
 
 
-## Agile Framework ⚓ 
-
-![App Screenshot](https://drive.google.com/uc?export=view&id=1UZ2ub6Mt6ahBHGO8412nd-HqowT7NnA-)
 
 
-- [Trello Schedule](https://drive.google.com/file/d/14K6gWdah9guLrlCMnA5dyh4FLPd7AR0V/view?usp=share_link)
-
-## Team A Members 👩‍💻|👨‍💻
-- Ameha [@ameha01](https://github.com/ameha01)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emiliedionisio)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://github.com/JHamIam)
-- Mina [@vick627](https://github.com/orgs/)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/bull-in-the-heather)
-- Victor [@vick627](https://github.com/vick627)
